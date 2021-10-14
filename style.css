@@ -82,6 +82,7 @@ header .navbar {
 
 .redes:hover{
 	color: #B4AC9D !important;
+	text-decoration: none !important;
 }
 
 .navbar .navbar-toggler {
