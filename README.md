@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Lemur Media Studio**
 
-- 🌱 I’m currently learning **React 🤓**
+- 🌱 I’m currently learning **React and PHP 🤓**
 
 - 📫 How to reach me **delrosariomartin23@gmail.com**
 
